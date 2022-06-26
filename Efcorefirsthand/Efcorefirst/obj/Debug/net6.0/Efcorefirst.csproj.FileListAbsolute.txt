@@ -1,0 +1,14 @@
+C:\Users\ANI\source\repos\Efcorefirsthand\Efcorefirst\bin\Debug\net6.0\Efcorefirst.deps.json
+C:\Users\ANI\source\repos\Efcorefirsthand\Efcorefirst\bin\Debug\net6.0\Efcorefirst.runtimeconfig.json
+C:\Users\ANI\source\repos\Efcorefirsthand\Efcorefirst\bin\Debug\net6.0\Efcorefirst.dll
+C:\Users\ANI\source\repos\Efcorefirsthand\Efcorefirst\bin\Debug\net6.0\Efcorefirst.pdb
+C:\Users\ANI\source\repos\Efcorefirsthand\Efcorefirst\obj\Debug\net6.0\Efcorefirst.csproj.AssemblyReference.cache
+C:\Users\ANI\source\repos\Efcorefirsthand\Efcorefirst\obj\Debug\net6.0\Efcorefirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANI\source\repos\Efcorefirsthand\Efcorefirst\obj\Debug\net6.0\Efcorefirst.AssemblyInfoInputs.cache
+C:\Users\ANI\source\repos\Efcorefirsthand\Efcorefirst\obj\Debug\net6.0\Efcorefirst.AssemblyInfo.cs
+C:\Users\ANI\source\repos\Efcorefirsthand\Efcorefirst\obj\Debug\net6.0\Efcorefirst.csproj.CoreCompileInputs.cache
+C:\Users\ANI\source\repos\Efcorefirsthand\Efcorefirst\obj\Debug\net6.0\Efcorefirst.dll
+C:\Users\ANI\source\repos\Efcorefirsthand\Efcorefirst\obj\Debug\net6.0\refint\Efcorefirst.dll
+C:\Users\ANI\source\repos\Efcorefirsthand\Efcorefirst\obj\Debug\net6.0\Efcorefirst.pdb
+C:\Users\ANI\source\repos\Efcorefirsthand\Efcorefirst\obj\Debug\net6.0\Efcorefirst.genruntimeconfig.cache
+C:\Users\ANI\source\repos\Efcorefirsthand\Efcorefirst\obj\Debug\net6.0\ref\Efcorefirst.dll
